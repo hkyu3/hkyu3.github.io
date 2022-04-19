@@ -113,7 +113,7 @@ project_team: # 형식에 맞추어 항목 추가
 
 - background_url: images/naga.png
   animation: fadeInRight
-  name: K-digital 융복합 프로젝트(2021.09 ~ 2021.11)
+  name: K-digital 융복합 프로젝트(2021.10 ~ 2021.12)
   description: Bigdata, AI, IoT, Cloud 분야가 협력하여 개발한 무인점포 AI CCTV 제품을 기획하는 프로젝트를 진행했습니다.
   detail_url: https://kyusanghwang0912.github.io/project/2022-02-27-naga/
 
@@ -121,14 +121,14 @@ project_my_name: 개인프로젝트
 project_my: # 형식에 맞추어 항목 추가
 - background_url: images/SQL_comento.png
   animation: fadeInLeft
-  name: SQL_redash_데이터 분석 프로젝트
+  name: SQL_redash_데이터 분석 프로젝트(2022.01 ~ 2022.02)
   description: SQL을 활용하여 redash에서 Northwind라는 가상회사의 비즈니스 데이터 분석 프로젝트를 진행했습니다. 
   detail_url: https://kyusanghwang0912.github.io/project/2022-03-01-sql_comento/
   readmore_url: #
 
 - background_url: images/git_adp.png
   animation: fadeInRight
-  name: Pyhton 코딩 북 프로젝트(2021.09 ~ 2021.03)
+  name: Pyhton 코딩 북 프로젝트(2021.09 ~ 2022.02)
   description: ADP 자격증 준비를 위해 그룹 스터디를 진행하며 Python을 활용한 전처리/통계분석/머신러닝을 학습 및 실습하고 정리하여, 책으로 제작했습니다.
   detail_url: https://github.com/kyusangHwang0912/TIL/tree/master/ADP
   readmore_url: #
