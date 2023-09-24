@@ -63,10 +63,10 @@ about_services: # 형식에 맞추어 항목 추가
 
 # Tech  skill
 tech_meta: TECH SKILLS
-tech_header: 활용 기술
-about_introduce: >-
+tech_header: 기술
+tech_introduce: >-
   "데이터 분석가가 가져야 할 기술을 갖추었습니다."
-tech_content: 활용 기술
+tech_content: 활용 가능 기술
 tech_list: # 형식에 맞추어 항목 추가
 - name: SQL
   color: color-1
@@ -143,8 +143,8 @@ project_my: # 형식에 맞추어 항목 추가
 
 # Experience
 exp_meta: What have I achieved?
-exp_header: 저는 이런 "경험"들을 해봤습니다.
-exp_content: 다양한 경험들을 통해 아래와 같은 역량을 키웠습니다.
+exp_header: 경험
+exp_content: "다양한 경험을 통해 아래와 같은 역량을 키웠습니다.""
 exp_services: # 형식에 맞추어 항목 추가
 - name: 데이터 분석
   color: color-1
