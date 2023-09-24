@@ -64,8 +64,6 @@ about_services: # 형식에 맞추어 항목 추가
 # Tech  skill
 tech_meta: TECH SKILLS
 tech_header: 기술
-tech_introduce: >-
-  "데이터 분석가가 가져야 할 기술을 갖추었습니다."
 tech_content: 활용 가능 기술
 tech_list: # 형식에 맞추어 항목 추가
 - name: SQL
