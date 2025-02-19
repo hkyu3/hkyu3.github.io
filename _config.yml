@@ -35,7 +35,7 @@ color_6: 4054b2
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/cover_bg_2.jpg
-  title: Kyusang <br> Hwang <br> Portfolio site
+  title: Kyusang <br> Hwang's <br> Portfolio site
   subtitle: >- 
     비즈니스 문제를 해결하는<br>
     데이터 분석가 황규상입니다
@@ -66,18 +66,18 @@ tech_meta: TECH SKILLS
 tech_header: 주요 기술
 tech_content: 데이터 마트 구축부터, 모델 운영 및 대시보드 제공까지의 End-to-End 프로세스 수행이 가능합니다.
 tech_list: # 형식에 맞추어 항목 추가
-- name: SQL
+- name: Python
   color: color-1
   animation: fadeInLeft
   percent: 90
   mark: 90
-  content: SQL을 활용하여 데이터 추출, 가공, 적재가 가능하며, On-Premise 및 Cloud 환경에서 데이터 마트를 구축한 경험이 있습니다. 테이블 설계, 프로시저 개발, 잡 스케줄링 등을 수행하였습니다.\n\n
-- name: Python
+  content: Python을 활용하여, 데이터 수집, 전처리, 분석 및 머신러닝 모델 개발을 수행하였습니다. 효율적인 데이터 처리, API 활용을 통해 자동화 파이프라인을 구축한 경험이 있습니다.\n\n
+- name: SQL
   color: color-2
   animation: fadeInRight
   percent: 90
   mark: 90
-  content: Python을 활용하여, 데이터 수집, 전처리, 분석 및 머신러닝 모델 개발을 수행하였습니다. 효율적인 데이터 처리, API 활용을 통해 자동화 파이프라인을 구축한 경험이 있습니다.\n\n
+  content: SQL을 활용하여 데이터 추출, 가공, 적재가 가능하며, On-Premise 및 Cloud 환경에서 데이터 마트를 구축한 경험이 있습니다. 테이블 설계, 프로시저 개발, 잡 스케줄링 등을 수행하였습니다.\n\n
 - name: Tableau
   color: color-3
   animation: fadeInLeft
