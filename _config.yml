@@ -142,7 +142,7 @@ project_my: # 형식에 맞추어 항목 추가
 # Experience
 exp_meta: What have I achieved?
 exp_header: 경험
-exp_content: "다양한 경험을 통해 아래와 같은 역량을 키웠습니다.""
+exp_content: "다양한 경험을 통해 아래와 같은 역량을 키웠습니다."
 exp_services: # 형식에 맞추어 항목 추가
 - name: 데이터 분석
   color: color-1
