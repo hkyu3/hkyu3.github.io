@@ -60,7 +60,7 @@ exp_services: # 형식에 맞추어 항목 추가
 - name: 데이터 시각화
   color: color-3
   icon: icon-home
-  content: Tableau 기반 운영 모니터링 및 데이터 분석 대시보드를 구축하여 비즈니스 의사결정 지원
+  content: Tableau 기반 운영 모니터링 및 데이터 분석 대시보드를 구축, 비즈니스 의사결정 지원
 
 
 
@@ -74,28 +74,28 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   percent: 90
   mark: 90
-  content: Python을 활용하여, 데이터 수집, 전처리, 분석 및 머신러닝 모델 개발을 수행하였습니다. 효율적인 데이터 처리, API 활용을 통해 자동화 파이프라인을 구축한 경험
+  content: Python을 활용하여, 데이터 수집, 전처리, 분석 및 머신러닝 모델 개발을 수행하였습니다. 효율적인 데이터 처리, API 활용을 통해 자동화 파이프라인을 구축 경험
 
 - name: SQL
   color: color-2
   animation: fadeInRight
   percent: 90
   mark: 90
-  content: SQL을 활용하여 데이터 추출, 가공, 적재가 가능하며, On-Premise 및 Cloud 환경에서 데이터 마트를 구축한 경험이 있습니다. 테이블 설계, 프로시저 개발, 잡 스케줄링 등을 수행
+  content: SQL을 활용하여 데이터 추출, 가공, 적재가 가능하며, On-Premise 및 Cloud 환경에서 데이터 마트를 구축한 경험. 테이블 설계, 프로시저 개발, 잡 스케줄링 등을 수행
 
 - name: Tableau
   color: color-3
   animation: fadeInLeft
   percent: 70
   mark: 60
-  content: Tableau를 활용하여, 데이터 분석 및 시각화를 수행하였으며, 비즈니스 의사결정을 지원하는 대시보드를 구축한 경험
+  content: Tableau를 활용하여, 데이터 분석 및 시각화를 수행하였으며, 비즈니스 의사결정을 지원하는 대시보드를 구축 경험
 
 - name: Pipeline Automation
   color: color-4
   animation: fadeInRight
   percent: 70
   mark: 50
-  content: 클라우드 환경에서 데이터 마트 구축 및 ETL 파이프라인을 운영한 경험이 있습니다. OCI 기반의 데이터 적재 및 테이블 관리를 수행
+  content: 클라우드 환경에서 데이터 마트 구축 및 ETL 파이프라인을 운영한 경험이 있습니다. OCI 기반의 데이터 적재 및 테이블 관리 수행
 
 #- name: Github
 #  color: color-5
