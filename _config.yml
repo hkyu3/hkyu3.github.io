@@ -246,9 +246,9 @@ contact_list:
   icon: icon-map
 - title: +82 10 5533 9783
   icon: icon-phone
-- title: 블로그
+- title: LunkedIn
   icon: icon-layers2
-  url: https://kyusanghwang0912.github.io/
+  url: https://www.linkedin.com/in/hks912/
 
 optional_front_matter:
   remove_originals:    true
