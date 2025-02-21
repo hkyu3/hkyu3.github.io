@@ -52,15 +52,15 @@ exp_services: # 형식에 맞추어 항목 추가
 - name: 3년차 데이터 분석가
   color: color-1
   icon: icon-bulb
-  content: 온·오프라인 데이터를 활용하여 수요예측 모델을 개발 및 예측 정확도를 개선하는 프로젝트 수행
+  content: 온·오프라인 데이터를 활용하여 수요예측 모델 개발하고 예측 정확도를 개선하는 프로젝트 수행
 - name: 데이터 엔지니어링
   color: color-2
   icon: icon-phone3
-  content: 온프레미스 및 클라우드 환경에서 데이터 마트를 구축 및 ETL 파이프라인을 자동화하여 데이터 활용성 증대
+  content: 온프레미스 및 클라우드 환경에서 데이터 마트 구축 및 ETL 파이프라인을 자동화를 통한 데이터 활용성 증대
 - name: 데이터 시각화
   color: color-3
   icon: icon-home
-  content: Tableau 기반 운영 모니터링 및 데이터 분석 대시보드를 구축, 비즈니스 의사결정 지원
+  content: Tableau 기반의 운영 모니터링과 데이터 분석 대시보드 구축을 통한 비즈니스 의사결정 지원
 
 
 
@@ -74,28 +74,28 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   percent: 90
   mark: 90
-  content: Python을 활용하여, 데이터 수집, 전처리, 분석 및 머신러닝 모델 개발 수행. 효율적인 데이터 처리, API 활용을 통한 자동화 파이프라인을 구축 경험
+  content: Python을 활용한 데이터 수집, 전처리, 분석 및 머신러닝 모델 개발 수행. 효율적인 데이터 처리, API 활용을 통한 자동화 파이프라인 구축 경험
 
 - name: SQL
   color: color-2
   animation: fadeInRight
   percent: 90
   mark: 90
-  content: SQL을 활용하여 데이터 추출, 가공, 적재가 가능. On-Premise 및 Cloud 환경에서 데이터 마트를 구축 경험. 테이블 설계, 프로시저 개발, 잡 스케줄링 수행
+  content: SQL을 활용한 데이터 추출, 가공, 적재가 가능. On-Premise 및 Cloud 환경에서 데이터 마트 구축 경험. 테이블 설계, 프로시저 개발, 잡 스케줄링 수행
 
 - name: Tableau
   color: color-3
   animation: fadeInLeft
   percent: 70
   mark: 60
-  content: Tableau를 활용한 데이터 분석 및 시각화를 수행, 비즈니스 의사결정을 지원하는 대시보드 구축 경험
+  content: Tableau를 활용한 데이터 분석 및 시각화 수행, 비즈니스 의사결정을 지원하는 대시보드 구축 경험
 
 - name: Pipeline Automation
   color: color-4
   animation: fadeInRight
   percent: 70
   mark: 50
-  content: 클라우드 환경에서의 데이터 마트 구축 및 ETL 파이프라인을 운영한 경험. OCI 기반의 데이터 적재 및 테이블 관리 수행
+  content: 클라우드 환경에서의 데이터 마트 구축 및 ETL 파이프라인 운영 경험. OCI 기반의 데이터 적재 및 테이블 관리 수행
 
 #- name: Github
 #  color: color-5
