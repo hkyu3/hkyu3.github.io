@@ -44,24 +44,28 @@ slider_1: # 형식에 맞추어 항목 추가
     데이터 분석가 황규상입니다
 
 
-# Certificate
-about_meta: Certificate
-about_header: >- 
-  자격증
-about_introduce: >-
-  "기본적인 자격 요건을 갖춘 데이터 분석가입니다."
-about_content: >-
-  보유 자격증
-about_services: # 형식에 맞추어 항목 추가
-- icon: icon-code
-  name: 빅데이터분석기사
-- icon: icon-data
-  name: SQL개발자(SQLD)
-- icon: icon-pen
-  name: 데이터분석준전문가(ADSP)
-- icon: icon-monitor
-  name: 구글애널리틱스 자격(GAIQ)
+# Experience
+exp_meta: What have I achieved?
+exp_header: About me
+exp_content: "데이터를 활용해 비즈니스 문제를 해결하고, 가치 있는 의사결정을 만드는 데이터 분석가"
+exp_services: # 형식에 맞추어 항목 추가
+- name: 3년차 데이터 분석가
+  color: color-1
+  icon: icon-bulb
+  content: 온·오프라인 데이터를 활용하여 수요예측 모델을 개발하고, 예측 정확도를 개선하는 프로젝트를 수행했습니다.
+- name: 데이터 엔지니어링
+  color: color-2
+  icon: icon-phone3
+  content: 온프레미스 및 클라우드 환경에서 데이터 마트를 구축하고, ETL 파이프라인을 자동화하여 데이터 활용성을 높였습니다.
+- name: 데이터 시각화
+  color: color-3
+  icon: icon-home
+  content: Tableau 기반 운영 모니터링 및 데이터 분석 대시보드를 구축하여 비즈니스 의사결정을 지원했습니다.
 
+exp_counters:
+- name: Career & Activities
+  count: 4
+  speed: 500
 
 
 # Tech  skill
@@ -69,7 +73,7 @@ tech_meta: TECH SKILLS
 tech_header: 주요 기술
 tech_content: 데이터 마트 구축부터, 모델 운영 및 대시보드 제공까지의 End-to-End 프로세스 수행이 가능합니다.
 tech_list: # 형식에 맞추어 항목 추가
-- name: Python
+- name: PYTHON
   color: color-1
   animation: fadeInLeft
   percent: 90
@@ -87,7 +91,7 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 70
   mark: 60
   content: Tableau를 활용하여, 데이터 분석 및 시각화를 수행하였으며, 비즈니스 의사결정을 지원하는 대시보드를 구축한 경험이 있습니다.
-- name: Data Pipeline Automation
+- name: Pipeline Automation
   color: color-4
   animation: fadeInRight
   percent: 70
@@ -110,7 +114,7 @@ project_introduce:
 project_load_more: 위 경험들을 바탕으로, 빠르고 정확하게 배워나가겠습니다.   # 더보기 내용
 project_load_more_url: #
 
-project_team_name: 팀 프로젝트
+project_team_name: 비즈니스 팀 프로젝트
 project_team: # 형식에 맞추어 항목 추가
 - background_url: images/delivery.png
   animation: fadeInLeft
@@ -124,7 +128,9 @@ project_team: # 형식에 맞추어 항목 추가
   description: Bigdata, AI, IoT, Cloud 분야가 협력하여 개발한 무인점포 AI CCTV 제품을 기획하는 프로젝트를 진행했습니다.
   detail_url: https://kyusanghwang0912.github.io/project/2022-02-27-naga/
 
-project_my_name: 개인 프로젝트
+
+
+project_my_name: 개인 프로젝트(공모전 등)
 project_my: # 형식에 맞추어 항목 추가
 - background_url: images/git_adp.png
   animation: fadeInLeft
@@ -132,6 +138,18 @@ project_my: # 형식에 맞추어 항목 추가
   description: 그룹 스터디를 진행하며 Python을 활용한 전처리,통계분석,머신러닝을 학습 및 실습하고 정리하여, 책으로 제작했습니다.
   detail_url: https://github.com/kyusangHwang0912/TIL/tree/master/ADP
   readmore_url: #
+
+- background_url: images/delivery.png
+  animation: fadeInRight
+  name: 데이터 안심구역 공모전(2021.09 ~ 2021.11)
+  description: 데이터 분석을 통해, 배달관련사고 방지를 위한 서울특별시의 특별 단속구역을 선정하는 프로젝트를 진행했습니다.
+  detail_url: https://kyusanghwang0912.github.io/project/2022-02-28-seoul_delivery/
+
+- background_url: images/naga.png
+  animation: fadeInLeft
+  name: K-digital 융복합 프로젝트(2021.10 ~ 2021.12)
+  description: Bigdata, AI, IoT, Cloud 분야가 협력하여 개발한 무인점포 AI CCTV 제품을 기획하는 프로젝트를 진행했습니다.
+  detail_url: https://kyusanghwang0912.github.io/project/2022-02-27-naga/
 
 # - background_url: images/SQL_comento.png
 #   animation: fadeInLeft
@@ -142,33 +160,7 @@ project_my: # 형식에 맞추어 항목 추가
 
 
 
-
-
-# Experience
-exp_meta: What have I achieved?
-exp_header: 경험
-exp_content: "다양한 경험을 통해 아래와 같은 역량을 키웠습니다."
-exp_services: # 형식에 맞추어 항목 추가
-- name: 데이터 분석
-  color: color-1
-  icon: icon-bulb
-  content: 내부 고객 데이터부터 다양한 외부 데이터를 수집 및 활용하여 모델을 개발 및 운영한 경험을 통해 데이터 분석에 대한 역량을 키웠습니다.
-- name: 데이터 엔지니어링
-  color: color-2
-  icon: icon-phone3
-  content: 분석에 필요한 데이터 마트를 구축하기 위해, 데이터 추출, 가공, 적재하는 파이프라인을 개발 및 운영하며 엔지니어링 역량을 키웠습니다.
-- name: 커뮤니케이션
-  color: color-3
-  icon: icon-home
-  content: 데이터 분석의 결과를 다양한 현업 담당자들에게 보고 및 공유하는 경험을 통해, 데이터 분석가로서의 커뮤니케이션 역량을 키웠습니다.
-
-exp_counters:
-- name: Career & Activities
-  count: 4
-  speed: 500
-
-
-# extracurricular activies
+# extracurricula activiesr
 carerr_meta: extracurricular activies
 career_header: Work Career
 career_list:
@@ -196,6 +188,26 @@ career_list:
   color: color-4
   icon: icon-pen2
   animation: fadeInRight
+
+
+# Certificate
+about_meta: Certificate
+about_header: >- 
+  자격증
+about_introduce: >-
+  "기본적인 자격 요건을 갖춘 데이터 분석가입니다."
+about_content: >-
+  보유 자격증
+about_services: # 형식에 맞추어 항목 추가
+- icon: icon-code
+  name: 빅데이터분석기사
+- icon: icon-data
+  name: SQL개발자(SQLD)
+- icon: icon-pen
+  name: 데이터분석준전문가(ADSP)
+- icon: icon-monitor
+  name: 구글애널리틱스 자격(GAIQ)
+
 
 # Education
 edu_meta: Education
