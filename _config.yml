@@ -41,7 +41,7 @@ slider_1: # 형식에 맞추어 항목 추가
   title: Kyusang <br> Hwang's <br> Portfolio site
   subtitle: >- 
     비즈니스 문제를 해결하는<br>
-    데이터 분석가 황규상입니다
+    데이터 분석가 황규상
 
 
 # Experience
@@ -52,51 +52,50 @@ exp_services: # 형식에 맞추어 항목 추가
 - name: 3년차 데이터 분석가
   color: color-1
   icon: icon-bulb
-  content: 온·오프라인 데이터를 활용하여 수요예측 모델을 개발하고, 예측 정확도를 개선하는 프로젝트를 수행했습니다.
+  content: 온·오프라인 데이터를 활용하여 수요예측 모델을 개발 및 예측 정확도를 개선하는 프로젝트 수행
 - name: 데이터 엔지니어링
   color: color-2
   icon: icon-phone3
-  content: 온프레미스 및 클라우드 환경에서 데이터 마트를 구축하고, ETL 파이프라인을 자동화하여 데이터 활용성을 높였습니다.
+  content: 온프레미스 및 클라우드 환경에서 데이터 마트를 구축 및 ETL 파이프라인을 자동화하여 데이터 활용성 증대
 - name: 데이터 시각화
   color: color-3
   icon: icon-home
-  content: Tableau 기반 운영 모니터링 및 데이터 분석 대시보드를 구축하여 비즈니스 의사결정을 지원했습니다.
+  content: Tableau 기반 운영 모니터링 및 데이터 분석 대시보드를 구축하여 비즈니스 의사결정 지원
 
-exp_counters:
-- name: Career & Activities
-  count: 4
-  speed: 500
 
 
 # Tech  skill
 tech_meta: TECH SKILLS
 tech_header: 주요 기술
-tech_content: 데이터 마트 구축부터, 모델 운영 및 대시보드 제공까지의 End-to-End 프로세스 수행이 가능합니다.
+tech_content: 데이터 마트 구축부터, 모델 운영 및 대시보드 제공까지의 End-to-End 프로세스 수행
 tech_list: # 형식에 맞추어 항목 추가
 - name: PYTHON
   color: color-1
   animation: fadeInLeft
   percent: 90
   mark: 90
-  content: Python을 활용하여, 데이터 수집, 전처리, 분석 및 머신러닝 모델 개발을 수행하였습니다. 효율적인 데이터 처리, API 활용을 통해 자동화 파이프라인을 구축한 경험이 있습니다.
+  content: Python을 활용하여, 데이터 수집, 전처리, 분석 및 머신러닝 모델 개발을 수행하였습니다. 효율적인 데이터 처리, API 활용을 통해 자동화 파이프라인을 구축한 경험
+
 - name: SQL
   color: color-2
   animation: fadeInRight
   percent: 90
   mark: 90
-  content: SQL을 활용하여 데이터 추출, 가공, 적재가 가능하며, On-Premise 및 Cloud 환경에서 데이터 마트를 구축한 경험이 있습니다. 테이블 설계, 프로시저 개발, 잡 스케줄링 등을 수행하였습니다.
+  content: SQL을 활용하여 데이터 추출, 가공, 적재가 가능하며, On-Premise 및 Cloud 환경에서 데이터 마트를 구축한 경험이 있습니다. 테이블 설계, 프로시저 개발, 잡 스케줄링 등을 수행
+
 - name: Tableau
   color: color-3
   animation: fadeInLeft
   percent: 70
   mark: 60
-  content: Tableau를 활용하여, 데이터 분석 및 시각화를 수행하였으며, 비즈니스 의사결정을 지원하는 대시보드를 구축한 경험이 있습니다.
+  content: Tableau를 활용하여, 데이터 분석 및 시각화를 수행하였으며, 비즈니스 의사결정을 지원하는 대시보드를 구축한 경험
+
 - name: Pipeline Automation
   color: color-4
   animation: fadeInRight
   percent: 70
   mark: 50
-  content: 클라우드 환경에서 데이터 마트 구축 및 ETL 파이프라인을 운영한 경험이 있습니다. OCI 기반의 데이터 적재 및 테이블 관리를 수행하였습니다.
+  content: 클라우드 환경에서 데이터 마트 구축 및 ETL 파이프라인을 운영한 경험이 있습니다. OCI 기반의 데이터 적재 및 테이블 관리를 수행
 
 #- name: Github
 #  color: color-5
@@ -119,13 +118,13 @@ project_team: # 형식에 맞추어 항목 추가
 - background_url: images/Demand_forecasting_online.png
   animation: fadeInLeft
   name: 온라인 수요예측 모델 개발 프로젝트(2022.06 ~ 2023.11)
-  description: 리드타임 단축을 위한 온라인 수요예측 모델 개발 프로젝트를 진행했습니다.
+  description: 리드타임 단축을 위한 온라인 수요예측 모델 개발 프로젝트를 진행
   detail_url: https://broad-morocco-0e4.notion.site/1a1a820339248020a18eeca4c9867281?pvs=4
 
 - background_url: images/Demand_forecasting_offline.png
   animation: fadeInRight
   name: 매장 수요예측 모델 개발 프로젝트(2023.11 ~ 2024.12)
-  description: 매장 발주시스템 개선을 위한 수요예측 모델 개발 프로젝트를 진행했습니다.
+  description: 매장 발주시스템 개선을 위한 수요예측 모델 개발 프로젝트를 진행
   detail_url: https://broad-morocco-0e4.notion.site/1a1a8203392480ca9c42e05c30b2ac9e?pvs=4
 
 
@@ -135,20 +134,20 @@ project_my: # 형식에 맞추어 항목 추가
 - background_url: images/git_adp.png
   animation: fadeInLeft
   name: 코딩 북 프로젝트(2021.09 ~ 2022.02)
-  description: 그룹 스터디를 진행하며 Python을 활용한 전처리,통계분석,머신러닝을 학습 및 실습하고 정리하여, 책으로 제작했습니다.
+  description: 그룹 스터디를 진행하며 Python을 활용한 전처리,통계분석,머신러닝을 학습 및 실습하고 정리하여, 책으로 제작
   detail_url: https://github.com/kyusangHwang0912/TIL/tree/master/ADP
   readmore_url: #
 
 - background_url: images/delivery.png
   animation: fadeInRight
   name: 데이터 안심구역 공모전(2021.09 ~ 2021.11)
-  description: 배달관련사고 방지를 위한 서울특별시의 특별 단속구역을 선정하는 프로젝트를 진행했습니다.
+  description: 배달관련사고 방지를 위한 서울특별시의 특별 단속구역을 선정하는 프로젝트를 진행
   detail_url: https://kyusanghwang0912.github.io/project/2022-02-28-seoul_delivery/
 
 - background_url: images/naga.png
   animation: fadeInLeft
   name: K-digital 융복합 프로젝트(2021.10 ~ 2021.12)
-  description: Bigdata, AI, IoT, Cloud 분야가 협력하여 개발한 무인점포 AI CCTV 제품을 기획하는 프로젝트를 진행했습니다.
+  description: Bigdata, AI, IoT, Cloud 분야가 협력하여 개발한 무인점포 AI CCTV 제품을 기획하는 프로젝트를 진행
   detail_url: https://kyusanghwang0912.github.io/project/2022-02-27-naga/
 
 # - background_url: images/SQL_comento.png
@@ -158,6 +157,12 @@ project_my: # 형식에 맞추어 항목 추가
 #   detail_url: https://kyusanghwang0912.github.io/project/2022-03-01-sql_comento/
 #   readmore_url: #
 
+
+
+exp_counters:
+- name: Career & Activities
+  count: 4
+  speed: 500
 
 
 # extracurricula activiesr
@@ -195,7 +200,7 @@ about_meta: Certificate
 about_header: >- 
   자격증
 about_introduce: >-
-  "데이터 분석에 대한 지식을 보유하고 있습니다."
+  "데이터 분석에 대한 지식을 보유"
 about_content: >-
   보유 자격증
 about_services: # 형식에 맞추어 항목 추가
@@ -231,7 +236,7 @@ blog_list:
 - title: github 블로그
   subtitle: 데이터 분석 블로그 운영
   date: 2022.01
-  content: 커스터마이징이 가능한 블로그를 운영하고 있습니다.
+  content: 커스터마이징이 가능한 블로그를 운영
   thumbnail_url: images/blog_logo.png
   link: https://kyusanghwang0912.github.io/
 
