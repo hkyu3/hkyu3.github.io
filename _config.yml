@@ -39,7 +39,7 @@ color_6: 4054b2
 slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/cover_bg_2.jpg
   title: Kyusang <br> Hwang's <br> Portfolio site
-  subtitle: >- 
+  subtitle: >-
     비즈니스 문제를 해결하는<br>
     데이터 분석가 황규상
 
@@ -74,28 +74,28 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   percent: 90
   mark: 90
-  content: Python을 활용하여, 데이터 수집, 전처리, 분석 및 머신러닝 모델 개발을 수행하였습니다. 효율적인 데이터 처리, API 활용을 통해 자동화 파이프라인을 구축 경험
+  content: Python을 활용하여, 데이터 수집, 전처리, 분석 및 머신러닝 모델 개발 수행. 효율적인 데이터 처리, API 활용을 통한 자동화 파이프라인을 구축 경험
 
 - name: SQL
   color: color-2
   animation: fadeInRight
   percent: 90
   mark: 90
-  content: SQL을 활용하여 데이터 추출, 가공, 적재가 가능하며, On-Premise 및 Cloud 환경에서 데이터 마트를 구축한 경험. 테이블 설계, 프로시저 개발, 잡 스케줄링 등을 수행
+  content: SQL을 활용하여 데이터 추출, 가공, 적재가 가능. On-Premise 및 Cloud 환경에서 데이터 마트를 구축 경험. 테이블 설계, 프로시저 개발, 잡 스케줄링 수행
 
 - name: Tableau
   color: color-3
   animation: fadeInLeft
   percent: 70
   mark: 60
-  content: Tableau를 활용하여, 데이터 분석 및 시각화를 수행하였으며, 비즈니스 의사결정을 지원하는 대시보드를 구축 경험
+  content: Tableau를 활용한 데이터 분석 및 시각화를 수행, 비즈니스 의사결정을 지원하는 대시보드 구축 경험
 
 - name: Pipeline Automation
   color: color-4
   animation: fadeInRight
   percent: 70
   mark: 50
-  content: 클라우드 환경에서 데이터 마트 구축 및 ETL 파이프라인을 운영한 경험이 있습니다. OCI 기반의 데이터 적재 및 테이블 관리 수행
+  content: 클라우드 환경에서의 데이터 마트 구축 및 ETL 파이프라인을 운영한 경험. OCI 기반의 데이터 적재 및 테이블 관리 수행
 
 #- name: Github
 #  color: color-5
@@ -118,13 +118,13 @@ project_team: # 형식에 맞추어 항목 추가
 - background_url: images/Demand_forecasting_online.png
   animation: fadeInLeft
   name: 온라인 수요예측 모델 개발 프로젝트(2022.06 ~ 2023.11)
-  description: 리드타임 단축을 위한 온라인 수요예측 모델 개발 프로젝트를 진행
+  description: 리드타임 단축을 위한 온라인 수요예측 모델 개발 프로젝트
   detail_url: https://broad-morocco-0e4.notion.site/1a1a820339248020a18eeca4c9867281?pvs=4
 
 - background_url: images/Demand_forecasting_offline.png
   animation: fadeInRight
   name: 매장 수요예측 모델 개발 프로젝트(2023.11 ~ 2024.12)
-  description: 매장 발주시스템 개선을 위한 수요예측 모델 개발 프로젝트를 진행
+  description: 매장 발주시스템 개선을 위한 수요예측 모델 개발 프로젝트
   detail_url: https://broad-morocco-0e4.notion.site/1a1a8203392480ca9c42e05c30b2ac9e?pvs=4
 
 
@@ -141,13 +141,13 @@ project_my: # 형식에 맞추어 항목 추가
 - background_url: images/delivery.png
   animation: fadeInRight
   name: 데이터 안심구역 공모전(2021.09 ~ 2021.11)
-  description: 배달관련사고 방지를 위한 서울특별시의 특별 단속구역을 선정하는 프로젝트를 진행
+  description: 배달관련사고 방지를 위한 서울특별시의 특별 단속구역 선정 프로젝트
   detail_url: https://kyusanghwang0912.github.io/project/2022-02-28-seoul_delivery/
 
 - background_url: images/naga.png
   animation: fadeInLeft
   name: K-digital 융복합 프로젝트(2021.10 ~ 2021.12)
-  description: Bigdata, AI, IoT, Cloud 분야가 협력하여 개발한 무인점포 AI CCTV 제품을 기획하는 프로젝트를 진행
+  description: Bigdata, AI, IoT, Cloud 분야가 협력하여 개발한 무인점포 AI CCTV 제품 기획 프로젝트
   detail_url: https://kyusanghwang0912.github.io/project/2022-02-27-naga/
 
 # - background_url: images/SQL_comento.png
