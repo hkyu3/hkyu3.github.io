@@ -56,7 +56,7 @@ exp_services: # 형식에 맞추어 항목 추가
 - name: 데이터 엔지니어링
   color: color-2
   icon: icon-phone3
-  content: 온프레미스 및 클라우드 환경에서 데이터 마트 구축 및 ETL 파이프라인을 자동화를 통한 데이터 활용성 증대
+  content: 온프레미스 및 클라우드 환경에서 데이터 마트 구축 및 ETL 파이프라인 자동화를 통한 데이터 활용성 증대
 - name: 데이터 시각화
   color: color-3
   icon: icon-home
